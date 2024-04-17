@@ -1,0 +1,5 @@
+Entonces su tarea será la de crear dos (2) endpoints que entreguen esos mismos datos.
+Les dejo un paso a paso y así ayudarles en la tarea 🤓👌
+● Crear el controlador de movies de la api → /controllers/api/genresController.js
+● Crear las rutas de movies de la api → /routes/api/genresRouter.js
+● Agregar las rutas al archivo app.js
